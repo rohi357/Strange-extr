@@ -10,7 +10,7 @@ API_HASH = os.environ.get("API_HASH","4693513c08d1ac6af15f95b116c29478")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@wizardd2_bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Stranger_txt_extractor_bot")
 BOT_TEXT = "Hero Extractor"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "8167879352"))
@@ -25,15 +25,15 @@ MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://chiruedizz:WmzSiQlS35fLDI
 # -----------------------------------------------
 PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002403971925"))
 # -----------------------------------------------
-join = '<a href="https://t.me/+M2aF1-qifHtkMjA1">✳️ JOIN BACKUP</a>'
+join = '<a href="https://t.me/+jjYZLW4sTmIwOTdl">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "wizardd2_bot" #without @
+ADMIN_BOT_USERNAME = "Stranger_txt_extractor_bot" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/9HhNmHYg/STRANGER-BOY.jpg")
 thumb_url = os.environ.get("thumb_url","https://i.ibb.co/q3SX4gjQ/STRANGER-BOY.jpg")
-CONTACT = os.environ.get("CONTACT","[TEAM_JNC](https://t.me/jnc_devoloper)")
-CREDIT = os.environ.get("CREDIT","Team_jnc") #DONT PASTE LINK ONLY BEAST / CHIRU
+CONTACT = os.environ.get("CONTACT","[『STRANGER BOYS 』](https://t.me/Yuuyyh8899)")
+CREDIT = os.environ.get("CREDIT","『STRANGER』") #DONT PASTE LINK ONLY BEAST / CHIRU
