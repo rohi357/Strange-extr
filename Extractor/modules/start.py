@@ -86,7 +86,7 @@ button1 = [
                     InlineKeyboardButton("💠 Aᴘᴘx Oᴛᴘ", callback_data="appxotp_")
                 ],
                 [
-                    InlineKeyboardButton(" STRANGE EXTRACTOR", callback_data="https://ibb.co/d4MyFpqC")
+                    InlineKeyboardButton("STRANGE EXTRACTOR", callback_data="https://ibb.co/d4MyFpqC")
                 ],
                 [
                     InlineKeyboardButton("😁 Aᴅᴅᴀ 𝟸𝟺𝟽", callback_data="adda_"),
@@ -117,15 +117,15 @@ button1 = [
                     InlineKeyboardButton("📱 Vɪsɪᴏɴ Iᴀs", callback_data="vision_ias_")
                 ],
                 [
+                    InlineKeyboardButton("✅ chhanel ", callback_data="https://t.me/+y2CPW9niqs0wMzI1"),
+                    InlineKeyboardButton("💁‍♂️ Instagram 🌌", callback_data="https://www.instagram.com/reel/DNQFke0vlLZ/?igsh=MzRlODBiNWFlZA==")
+                ],
+                [
                    # InlineKeyboardButton("CʟᴀssPʟᴜs", callback_data="classplus_"),
                     InlineKeyboardButton("🪐 Mʏ Pᴀᴛʜsʜᴀʟᴀ", callback_data="my_pathshala_") ,
                     InlineKeyboardButton("🎀 ExamPur", callback_data="exampur_txt") 
 
 
-                ],
-                [
-                    InlineKeyboardButton("✅ chhanel ", callback_data="https://t.me/+y2CPW9niqs0wMzI1"),
-                    InlineKeyboardButton("💁‍♂️ Instagram 🌌", callback_data="https://www.instagram.com/reel/DNQFke0vlLZ/?igsh=MzRlODBiNWFlZA==")
                 ],
                 [
                   #  InlineKeyboardButton("﹤", callback_data="next_4"),
