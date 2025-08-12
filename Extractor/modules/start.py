@@ -79,7 +79,9 @@ custom_button = [[
 
 button1 = [              
                 [
-                    InlineKeyboardButton("✅️ Aᴘᴘx", callback_data="appx_"),
+                    InlineKeyboardButton("✅️ Aᴘᴘx", callback_data="appx_")
+                ],
+                 [
                     InlineKeyboardButton("📊 A.K", callback_data="ak_"),
                     InlineKeyboardButton("💠 Aᴘᴘx Oᴛᴘ", callback_data="appxotp_")
                 ],
