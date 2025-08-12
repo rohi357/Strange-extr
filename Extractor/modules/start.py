@@ -102,7 +102,8 @@ button1 = [
                     InlineKeyboardButton("📮 Uᴛᴋᴀʀsʜ", callback_data="utkarsh_") 
                 ],
                 [
-                    InlineKeyboardButton("📱 Vɪsɪᴏɴ Iᴀs", callback_data="vision_ias_")
+                    InlineKeyboardButton("📱 Vɪsɪᴏɴ Iᴀs", callback_data="vision_ias_"),
+                  InlineKeyboardButton("STRANGE", callback_data="https://i.ibb.co/9m20Ys7k/photo-2025-06-22-13-16-36-7518790252551471136.jpg")
                 ],
                 [
                    # InlineKeyboardButton("CʟᴀssPʟᴜs", callback_data="classplus_"),
