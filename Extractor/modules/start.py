@@ -86,28 +86,16 @@ button1 = [
                     InlineKeyboardButton("💠 Aᴘᴘx Oᴛᴘ", callback_data="appxotp_")
                 ],
                 [
-                    InlineKeyboardButton("STRANGE EXTRACTOR", callback_data="https://ibb.co/d4MyFpqC")
-                ],
-                [
                     InlineKeyboardButton("😁 Aᴅᴅᴀ 𝟸𝟺𝟽", callback_data="adda_"),
                     InlineKeyboardButton("🎉 CʟᴀssPʟᴜs", callback_data="classplus_")
-                ],
-                [
-                    InlineKeyboardButton("📱 STRANGER 🙋‍♂️", callback_data="https://i.ibb.co/Swd0WDW9/photo-2025-05-09-20-09-39-7502540716233457668.jpg")
                 ],
                 [
                     InlineKeyboardButton("🌠 Kʜᴀɴ Gs", callback_data="khan_"),   
                     InlineKeyboardButton("🙋‍♂️ Pʜʏsɪᴄs Wᴀʟʟᴀʜ", callback_data="pw_")    
                 ],
                 [
-                    InlineKeyboardButton("〽️ THE BOYS 📮", callback_data="https://i.ibb.co/DgRpQhw6/photo-2025-04-30-11-42-22-7499070258104238100.jpg")
-                ],
-                [
                     InlineKeyboardButton("💳 Sᴛᴜᴅʏ IQ", callback_data="iq_"),
                     InlineKeyboardButton("😶 Kd campus", callback_data="kdlive_")         
-                ],
-                [
-                    InlineKeyboardButton("😶 SAMAY YATRI 🪐", callback_data="https://i.ibb.co/dwc7VnGQ/photo-2025-04-17-12-32-29-7494259035739258904.jpg")
                 ],
                 [
                     InlineKeyboardButton("🌝 carewill", callback_data="careerwill_"),   
@@ -115,10 +103,6 @@ button1 = [
                 ],
                 [
                     InlineKeyboardButton("📱 Vɪsɪᴏɴ Iᴀs", callback_data="vision_ias_")
-                ],
-                [
-                    InlineKeyboardButton("✅ chhanel ", callback_data="https://t.me/+y2CPW9niqs0wMzI1"),
-                    InlineKeyboardButton("💁‍♂️ Instagram 🌌", callback_data="https://www.instagram.com/reel/DNQFke0vlLZ/?igsh=MzRlODBiNWFlZA==")
                 ],
                 [
                    # InlineKeyboardButton("CʟᴀssPʟᴜs", callback_data="classplus_"),
