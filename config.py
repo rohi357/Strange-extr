@@ -11,7 +11,7 @@ API_HASH = os.environ.get("API_HASH","cd7dc5431d449fd795683c550d7bfb7e")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Stranger_txt_extractor_bot")
-BOT_TEXT = "Hero Extractor"
+BOT_TEXT = "『 THE BOYS / STRANGER BOYS 』"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "6126688051"))
 # ------------------------------------------------
@@ -33,7 +33,7 @@ UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
 ADMIN_BOT_USERNAME = "Stranger_txt_extractor_bot" #without @
 
-THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/9HhNmHYg/STRANGER-BOY.jpg")
+THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/ccV44ZRS/STRANGER-BOY.jpg")
 thumb_url = os.environ.get("thumb_url","https://i.ibb.co/q3SX4gjQ/STRANGER-BOY.jpg")
-CONTACT = os.environ.get("CONTACT","[『STRANGER BOYS 』](https://t.me/Yuuyyh8899)")
+CONTACT = os.environ.get("CONTACT","[『STRANGER BOYS 』](https://t.me/Strangerboys24)")
 CREDIT = os.environ.get("CREDIT","『STRANGER』") #DONT PASTE LINK ONLY BEAST / CHIRU
